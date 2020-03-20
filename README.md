@@ -12,3 +12,10 @@
  
  <h3> Architecture </h3>
 <img src="architecture.png" width="600" height="300" alt="Architecture"/>
+<ul>
+  
+  <b>Input: </b> <li>(None,784)</li>
+  <b>hiddenLayers:</b><li>(784,512) -> (512,256)</li>
+  <b> Reparameterization</b> <li>Mean: (256,2) , Std: (256,2)</li>
+  <b> Decoder </b> <li>(2,256) -> (256,512) -> (512,784)</li>
+</ul>
