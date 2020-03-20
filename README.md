@@ -11,3 +11,4 @@
 </ul>
  
  <h3> Architecture </h3>
+ <img src="architecure.png" alt="Architecture">
