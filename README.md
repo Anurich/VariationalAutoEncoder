@@ -11,4 +11,4 @@
 </ul>
  
  <h3> Architecture </h3>
-<img src="architecture.png" width="400" height="250" alt="Architecture"/>
+<img src="architecture.png" width="600" height="300" alt="Architecture"/>
