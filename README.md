@@ -11,4 +11,4 @@
 </ul>
  
  <h3> Architecture </h3>
- ![Architecture]("architecture.png")
+<img src="architecture.png" width="20" height="20" alt="Architecture"/>
