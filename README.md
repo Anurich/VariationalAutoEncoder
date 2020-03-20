@@ -11,4 +11,4 @@
 </ul>
  
  <h3> Architecture </h3>
- ![Architecture](architecture.png)
+ ![Architecture]("architecture.png")
