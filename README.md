@@ -18,6 +18,6 @@
   <b>Input: </b> <li>(None,784)</li>
   <b>hiddenLayers:</b><li>(784,512) -> (512,256)</li>
   <b> Reparameterization</b> <li>Mean: (256,2) , Std: (256,2)</li>
-  <b> Sampling z </b> <li> z = Mean + exp(Std*0.5)*Std </li>
+  <b> Sampling z </b> <li> z = Mean + exp(Std*0.5)*Std , Shape: (None,2) pass to decoder  </li>
   <b> Decoder </b> <li>(2,256) -> (256,512) -> (512,784)</li>
 </ul>
