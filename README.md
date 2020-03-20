@@ -21,3 +21,7 @@
   <b> Sampling z </b> <li> z = Mean + exp(Std*0.5)*Std , Shape: (None,2) pass to decoder  </li>
   <b> Decoder </b> <li>(2,256) -> (256,512) -> (512,784)</li>
 </ul>
+
+
+<h2> Tuning </h2>
+<p> It's not tune at all , you can tune it by changing the batch size , initializer and learning rate as well try different architecture of the neural network </p>
