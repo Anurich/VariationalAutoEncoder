@@ -12,6 +12,7 @@
  
  <h3> Architecture </h3>
 <img src="architecture.png" width="600" height="300" alt="Architecture"/>
+<h3>Neural Network Structure</h3>
 <ul>
   
   <b>Input: </b> <li>(None,784)</li>
