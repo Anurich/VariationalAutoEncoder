@@ -19,5 +19,5 @@ I use two type of loss as mentioned in the paper of variational auto encoder.
  <li> Marginal Likelihood. </li>
  </ul>
  <h2>Contribute. </h2>
- Feel free to check out the code, and contribute as well as point out if their is any problem.
+ Feel free to contribute as well as point out the mistake and any room for improvement.
  
