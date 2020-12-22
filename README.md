@@ -11,7 +11,7 @@ VAE is an autoencoder whose encodings distribution is regularised during the tra
 <h2> Code structure. </h2>
 All the code is written is <b>vae.ipynb file</b>. And only train for one epoch.
 <h2> Dataset. </h2>
-The dataset used is mnist dataset. Which was already present in tensorflow examples.
+The dataset used is <b>MNIST</b> dataset, Which was already available in tensorflow examples.
 <h2> Loss </h2> 
 I use two type of loss as mentioned in the paper of variational auto encoder. 
  <ul>
